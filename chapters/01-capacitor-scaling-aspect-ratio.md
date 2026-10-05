@@ -256,7 +256,7 @@ Bottom-placement budget (3σ, illustrative):
   RSS                                         6.7       45.3   ≤ 7.0 ✓
 ```
 
-The budget closes with 0.3 nm to spare. At Book #29's 1.6 µm depth, the same angular errors cost 2.8 nm (tilt) and about 3.2 nm (twist), and the budget had several nanometres of margin. **At 2.1 µm, the etch contributes three-quarters of the placement variance**, and the lithography that the fab spends heavily to control contributes a fifth.
+The budget closes with 0.3 nm to spare. At Book #29's 1.6 µm depth, the same angular errors cost 2.8 nm (tilt) and about 2.3 nm (twist), and the budget had more than a nanometre of margin. **At 2.1 µm, the etch contributes three-quarters of the placement variance**, and the lithography that the fab spends heavily to control contributes a fifth.
 
 ### 1.5.3 Angle Is Distance
 

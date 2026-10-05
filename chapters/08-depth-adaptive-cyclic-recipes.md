@@ -85,8 +85,8 @@ Step  Name          Depth (nm)   Time (s)  Gas (sccm)                         Bi
 3     Middle SiN    900–940         8.0    C₄F₆ 20, CH₂F₂ 15, O₂ 25, Ar 300   8 kV / 3.0 kW
 4     ME2 (BPSG)    940–2080      171.2    C₄F₆ 32→27, C₄F₈ 15, O₂ 30→36,     9.5→10.5 kV
                                            NF₃ 0→8, Ar 300                     3.0 kW
-5     Overetch      2080 + slow    40      as end of step 4, O₂ 38, NF₃ 10    10.5 kV / 3.0 kW
-                    holes
+5     Overetch      2080 + slow    40      C₄F₆ 34, C₄F₈ 10, O₂ 28, Ar 300    10 kV / 3.0 kW
+                    holes                  (no NF₃; SiN-selective, ≈ 15:1)
 6     Bottom open   2080–2100      35      CHF₃ 50, O₂ 10, Ar 200             3 kV sine / 1.5 kW
 ─────────────────────────────────────────────────────────────────────────────────────────────────
 Total                              359.3

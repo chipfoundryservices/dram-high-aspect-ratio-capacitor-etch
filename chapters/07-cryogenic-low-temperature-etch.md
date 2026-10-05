@@ -88,9 +88,10 @@ HF with water can etch oxide without ions. At −60 °C with abundant adsorbed w
                           R1 (+10 °C)     R2 (−60 °C)
   ─────────────────────────────────────────────────────
   Oxide : B-ACL (eff.)       3.5             5.0
-  Oxide : SiN                1.4             1.1–1.2
+  Oxide : SiN (main etch)    ≈ 6             1.1–1.2
+  Oxide : SiN (overetch)     ≈ 15            ≈ 3 (most selective setting)
   BPSG : TEOS                1.17            1.25
-  Bottom open, SiN : W       > 20            > 20
+  Bottom open, SiN : W       ≈ 6             ≈ 6
 ```
 
 Carbon reacts slowly with HF at low temperature, and the reduced oxygen in R2 limits carbon oxidation, so mask selectivity rises. Silicon nitride etches at nearly the oxide rate, which makes the supports easy to cut but the bottom stop a weaker stop.

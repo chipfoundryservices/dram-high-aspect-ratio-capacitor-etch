@@ -288,12 +288,15 @@ R2 main-etch gas (illustrative):
 ```
 Selectivity to B-ACL (blanket → effective):
   R1: 8 → 3.5        R2: 11 → 5.0
-Selectivity to SiN supports (oxide:nitride in the main etch):
-  R1: ≈ 1.4 (nitride 0.70 of oxide rate)   R2: ≈ 1.1–1.2
-Selectivity to W pad in the bottom-open step: > 20 (both)
+Oxide : SiN in the main-etch and overetch chemistry (at the hole bottom):
+  R1: ≈ 6 in ME, ≈ 15 in the SiN-selective overetch
+      (the supports are cut by separate blended steps at a nitride rate
+      0.70 of the oxide rate, Chapter 8)
+  R2: ≈ 1.1–1.2 (one chemistry cuts oxide and nitride alike)
+SiN : W in the bottom-open step: ≈ 6 (both)
 ```
 
-R2's lower oxide-to-nitride selectivity is an advantage for the supports, which it cuts with less change of chemistry, and a disadvantage for the bottom stop, which it reaches with less warning (Chapter 12).
+R2's low oxide-to-nitride selectivity is an advantage for the supports, which it cuts with no change of chemistry, and a disadvantage for the bottom stop, which it cannot rely on to stop the etch (Chapter 12).
 
 ---
 
