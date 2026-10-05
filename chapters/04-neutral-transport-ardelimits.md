@@ -161,7 +161,7 @@ Holes 3σ narrow (reference: 3σ = 1.0 nm on top CD → ≈ 0.9 nm on CD_avg):
       → 4.3 s
   Family offset (SADP×2: one family 1.0 nm narrow) → 27 nm → 4.8 s
   Mold 3σ thick (Chapter 2): 4.3 s
-  Wafer-edge lag (Chapter 8): ≈ 10 s
+  Wafer-edge lag (Chapter 9): ≈ 10 s
   Bottom-stop arrival spread and margin: ≈ 15 s
   RSS of the first four: √(4.3² + 4.8² + 4.3² + 10²) ≈ 13 s
   Plus margin: ≈ 13 + 15 ≈ 28 s → reference OE 40 s
