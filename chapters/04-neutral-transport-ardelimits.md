@@ -122,14 +122,14 @@ t(h) = G(h) / ER₀,  G(h) = h + k h² / (2w),  w = 23 nm
   h (nm)     A          ER/ER₀    t (min)           ER/ER₀    t (min)
   ─────────────────────────────────────────────────────────────────────
     200      8.7        0.88      0.31              0.92      0.19
-    500     21.7        0.74      0.84              0.82      0.49
-   1000     43.5        0.59      1.93              0.70      1.10
-   1400     60.9        0.51      2.97              0.62      1.65
-   2000     87.0        0.42      4.84              0.53      2.58
+    500     21.7        0.74      0.84              0.82      0.50
+   1000     43.5        0.59      1.93              0.70      1.11
+   1400     60.9        0.51      2.97              0.62      1.66
+   2000     87.0        0.42      4.84              0.53      2.61
    2100     91.3        0.41      5.19              0.52      2.78
 ```
 
-The last third of the depth (1400 to 2100 nm) takes 2.22 min in R1, 75% of the 2.97 min needed for the first two-thirds. In R2 it takes 1.13 min, 68% of 1.65 min.
+The last third of the depth (1400 to 2100 nm) takes 2.22 min in R1, 75% of the 2.97 min needed for the first two-thirds. In R2 it takes 1.12 min, 67% of 1.66 min.
 
 ### 4.3.2 Depth Sensitivity to CD
 
